@@ -10,6 +10,7 @@ Claude / ChatGPT / Gemini 용 스킬 배포 저장소입니다.
 | [pathfinder-report.zip](./pathfinder-report.zip) | 검색 여정(CDJ) 분석 리포트 |
 | [queryfinder-report.zip](./queryfinder-report.zip) | 연관 쿼리 기회 분석 리포트 |
 | [clusterfinder-report.zip](./clusterfinder-report.zip) | 검색 클러스터 지형 분석 리포트 |
+| [total-report.zip](./total-report.zip) | 3파인더 통합 종합 리포트 |
 
 공개 중인 버전은 [`PUBLISHED.json`](./PUBLISHED.json) 을 참고하세요.
 
