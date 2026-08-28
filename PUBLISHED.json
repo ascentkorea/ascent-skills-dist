@@ -3,8 +3,8 @@
   "_repo": "https://github.com/ascentkorea/ascent-skills-dist",
   "skills": {
     "pathfinder-report": "0.1.3",
-    "queryfinder-report": "0.1.3",
+    "queryfinder-report": "0.1.4",
     "clusterfinder-report": "0.1.3",
-    "total-report": "0.1.1"
+    "total-report": "0.1.2"
   }
 }
